@@ -1,0 +1,8 @@
+{
+  "name": "flipping-cards",
+  "app_id": "dccfba7d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
